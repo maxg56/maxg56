@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Maxence 👋
 
-<!--
-**maxg56/maxg56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on problem-solving and creating efficient, elegant solutions. I am always learning new technologies to improve my skills and expand my knowledge.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C, Python, Bash, JavaScript
+- Frameworks: [insert frameworks used]
+- Tools: Git, Docker, Vim, VSCode
+- Environments: Linux, Wayland (BSPWM, Hyprland)
+
+## 📂 Notable Projects
+
+- **Libft**: Implementation of the standard library in C.
+- **ft_printf**: Created a `printf` function in C.
+- **Polybar Config**: Custom Polybar configuration for BSPWM.
+- **SecLists**: Using wordlists for penetration testing.
+
+## 🚀 Goals
+
+- Deepen my knowledge of window managers on Linux (like Hyprland and BSPWM).
+- Develop security tools for penetration testing.
+- Contribute to open-source projects and engage with tech communities.
+
+## 💬 Contact Me
+
+- Email: mgendrot29@gmail.com
+- LinkedIn: 
